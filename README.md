@@ -75,7 +75,7 @@ Virtual-Assistant-JARVIS/
 │   └── db.py                 # python program for storing contacts
 │   └── config.py             # stores the name of Assistant and wake up command
 │   └── helper.py             # logic for removing unwanted words in queries
-├── www/                      # Static files (CSS, JavaScript)
+├── www/                      # frontend
 │   ├── html/
 │   └── index.html            # HTML templates
 │   ├── css/
