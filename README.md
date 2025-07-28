@@ -109,10 +109,6 @@ Contributions are welcome! Please follow the steps below:
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or issues, please reach out to [poojithapooji701@gmail.com.com](mailto:poojithapooji701@gmail.com).
