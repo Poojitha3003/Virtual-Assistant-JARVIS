@@ -65,9 +65,9 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
 ## Project Structure
 
 ```
-jarvis-ai/
+Virtual-Assistant-JARVIS/
 │
-├── app.py                   # Main Python application file
+├── main.py                   # Main Python application file
 ├── templates/               # HTML templates
 │   └── index.html           # Main frontend file
 ├── static/                  # Static files (CSS, JavaScript)
