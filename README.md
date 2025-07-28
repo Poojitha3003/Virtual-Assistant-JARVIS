@@ -36,7 +36,7 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd jarvis-ai
+   cd Virtual-Assistant-JARVIS
    ```
 3. **Install Dependencies**:
    - Python:
