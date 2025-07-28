@@ -79,15 +79,25 @@ Virtual-Assistant-JARVIS/
 │   ├── html/
 │   └── index.html            # HTML templates
 │   ├── css/
-│   │   └── styles.css        # Custom styles
+│   │   └── styles.css        # Custom styles for chatbot
 │   └── js/
 │       └── script.js         # JavaScript logic
 │       └── controller.js     # JavaScript logic
 │       └── main.js           # JavaScript logic
 ├── database/                 # Database files and SQL scripts
 │   └── jarvis.sql            # Database schema
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project README
+├── assests/              
+│   └── audio/
+│       └── start_sound
+│   └── img/
+│       └── jarvis logo
+│   └── vendore/
+│       └── animate.css           # ui animations
+│       └── style.css             # ui styles
+│       └── jquery.fittext.js     # text styles
+│       └── jquery.lettering.js   # lettering adjustments
+├── requirements.txt              # Python dependencies
+└── README.md                     # Project README
 ```
 
 ## Contributing
