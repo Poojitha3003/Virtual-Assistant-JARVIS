@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or issues, please reach out to [maddoxer143@gmail.com.com](mailto:maddoxer143@gmail.com).
+For any inquiries or issues, please reach out to [poojithapooji701@gmail.com.com](mailto:poojithapooji701@gmail.com).
 
 ---
 
