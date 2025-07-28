@@ -54,7 +54,7 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
 
 1. **Start the Backend Server**:
    ```bash
-   python app.py
+   python main.py
    ```
 2. **Launch the Frontend**:
    Open `index.html` in your preferred browser.
@@ -68,17 +68,26 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
 Virtual-Assistant-JARVIS/
 │
 ├── main.py                   # Main Python application file
-├── templates/               # HTML templates
-│   └── index.html           # Main frontend file
-├── static/                  # Static files (CSS, JavaScript)
+├── engine/               
+│   └── features.py           # functions of jarvis
+│   └── command.py            # logic for understanding the queries
+│   └── voice.py              # function for Javris voice
+│   └── db.py                 # python program for storing contacts
+│   └── config.py             # stores the name of Assistant and wake up command
+│   └── helper.py             # logic for removing unwanted words in queries
+├── www/                      # Static files (CSS, JavaScript)
+│   ├── html/
+│   └── index.html            # HTML templates
 │   ├── css/
-│   │   └── styles.css       # Custom styles
+│   │   └── styles.css        # Custom styles
 │   └── js/
-│       └── scripts.js       # JavaScript logic
-├── database/                # Database files and SQL scripts
-│   └── schema.sql           # Database schema
-├── requirements.txt         # Python dependencies
-└── README.md                # Project README
+│       └── script.js         # JavaScript logic
+│       └── controller.js     # JavaScript logic
+│       └── main.js           # JavaScript logic
+├── database/                 # Database files and SQL scripts
+│   └── jarvis.sql            # Database schema
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project README
 ```
 
 ## Contributing
