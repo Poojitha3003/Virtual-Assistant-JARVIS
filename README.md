@@ -58,7 +58,7 @@ Virtual-Assistant-JARVIS is a sophisticated software application designed to pro
    ```
 2. **Launch the Frontend**:
    Open `index.html` in your preferred browser.
-3. **Interact with Jarvis AI**:
+3. **Interact with Virtual-Assistant-JARVIS**:
    - Use the command input to interact with the AI.
    - Jarvis will respond based on your queries and commands.
 
@@ -115,4 +115,4 @@ For any inquiries or issues, please reach out to [poojithapooji701@gmail.com.com
 
 ---
 
-Thank you for using Jarvis AI! We hope this project helps you build powerful and interactive applications.
+Thank you for using Virtual-Assistant-JARVIS! We hope this project helps you build powerful and interactive applications.
