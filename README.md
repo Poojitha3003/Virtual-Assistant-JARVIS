@@ -32,7 +32,7 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/jarvis-ai.git
+   git clone https://github.com/Poojitha3003/Virtual-Assistant-JARVIS.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
