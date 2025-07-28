@@ -1,4 +1,4 @@
-# Jarvis AI
+# Virtual-Assistant-JARVIS
 
 Jarvis AI is a sophisticated software application designed to provide intelligent interactions and efficient data management using a combination of Python, HTML, CSS, SQL, and JavaScript. This application leverages advanced programming techniques to deliver a user-friendly and responsive interface, real-time dynamic interactions, and powerful backend functionalities.
 
